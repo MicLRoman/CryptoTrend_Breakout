@@ -1,4 +1,4 @@
-Database\DonchianBot_DB.sqlite
+Database/DonchianBot_DB.sqlite
 *.env
 **__pycache__
 payment.py
