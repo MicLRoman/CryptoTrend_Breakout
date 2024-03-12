@@ -12,7 +12,7 @@ import telegram_bot as tg
 
 import asyncio
 
-from yoomoney import Yoomoney
+from payment_yoomoney import Yoomoney
 
 from time import sleep
 
