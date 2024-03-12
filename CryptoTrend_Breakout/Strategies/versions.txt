@@ -1,0 +1,1 @@
+0.1 - M-candles, indicators (ema15 (alpha=0.8), ma15) in M-candles, history candles - middle value in 7 days with +-10 minutes
